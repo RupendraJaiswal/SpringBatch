@@ -4,6 +4,8 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+References.txt
+
 ### STS ###
 .apt_generated
 .classpath
